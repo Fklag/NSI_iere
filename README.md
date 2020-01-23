@@ -1,0 +1,1 @@
+Exemple de diapo reveal.js à partir de jupyter notebook avec cellules de codes interactives.
